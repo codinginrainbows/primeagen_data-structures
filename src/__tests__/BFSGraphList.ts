@@ -12,5 +12,3 @@ test("bfs - graph", function () {
 
     expect(bfs(list2, 6, 0)).toEqual(null);
 });
-
-
